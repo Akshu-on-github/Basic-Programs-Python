@@ -1,7 +1,7 @@
 def calc(first_num, choice, second_num):
-    if(choice=='Addition'):
+    if(choice=='addition'):
         return first_num+second_num
-    elif (choice=='Subtraction'):
+    elif (choice=='subtraction'):
         return first_num-
     second_num
 
@@ -14,6 +14,7 @@ while (st==1):
     num1=input("Enter the first number: ")
     first_num=int(num1)
     choice=input("Addition or Subtraction? ")
+    choice=choice.lower()
     num2=input("Enter the second number: ")
     second_num=int(num2)
     answer=calc(first_num, choice, second_num)
