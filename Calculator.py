@@ -6,7 +6,7 @@ def calc(first_num, choice, second_num):
     elif(choice=='multiplication'):
         return first_num*second_num
     elif (choice=='division'):
-        return first_num/econd_num
+        return first_num/second_num
 
 print("This is the Basic Calculator Program")
 start=input("Do you wish to start? Type 1 for YES and 0 for NO: ")
