@@ -1,11 +1,11 @@
 def calc(first_num, choice, second_num):
-    if(choice=='addition'):
+    if(choice=='addition' or choice=='add'):
         return first_num+second_num
-    elif (choice=='subtraction'):
+    elif (choice=='subtraction' or choice=='subtract'):
         return first_num-second_num
-    elif(choice=='multiplication'):
+    elif(choice=='multiplication' or choice=='multiply'):
         return first_num*second_num
-    elif (choice=='division'):
+    elif (choice=='division' or choice=='divide'):
         return first_num/second_num
 
 print("This is the Basic Calculator Program")
