@@ -1,4 +1,7 @@
-def calc(first_num, choice, second_num):
+# Python does not have switch case
+# There are other ways to implement this, dictionary mapping for example, but I started off with this
+
+def calc(choice, first_num, second_num):
     if(choice=='addition' or choice=='add'):
         return first_num+second_num
     elif (choice=='subtraction' or choice=='subtract'):
@@ -26,6 +29,6 @@ while (st==1):
     continue_=input("Do you want to continue? Press 1 for YES and 0 for NO: ")
     st=int(continue_)
     if(st!=1 and st!=0):
-        print("I'm going to take that as a NO")
+        print("I'm going to take that as a no...")
 
 print("Thank you for trying out the Bacic Calculator Program!")
