@@ -1,7 +1,6 @@
+def calc(choice, first_num, second_num):
 # Python does not have switch case
 # There are other ways to implement this, dictionary mapping for example, but I started off with this
-
-def calc(choice, first_num, second_num):
     if(choice=='addition' or choice=='add'):
         return first_num+second_num
     elif (choice=='subtraction' or choice=='subtract'):
@@ -19,6 +18,11 @@ if(st!=1 and st!=0):
 while (st==1):
     num1=input("Enter the first number: ")
     first_num=int(num1)
+    # I could use some thing like
+    # Press the corresponing number to perform the operation
+    # 1. Addition
+    # 2. Subtraction
+    # And so on, but I wanted to attempt taking a word input
     choice=input("Addition, subtraction, multiplication or division? ")
     choice=choice.lower()
     num2=input("Enter the second number: ")
