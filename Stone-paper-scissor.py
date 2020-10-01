@@ -1,6 +1,6 @@
 from random import randint
 
-#written by heisenberg🕶
+
 
 def game():
 
