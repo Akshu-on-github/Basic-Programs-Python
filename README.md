@@ -1,8 +1,11 @@
 # Basic-Programs-Python
 This repo has a set of basic programs, a refresher of sorts:
+
 - A simple calculator using Python3
 
 - A simple stone, paper & scissor game using Python3
+
+- A simple python3 program to check whether a word is palindrome or not 
 
 - A simple program to print ASCII value using Python3
 
