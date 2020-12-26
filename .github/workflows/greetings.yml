@@ -1,13 +1,18 @@
 name: Greetings
 
-on: [pull_request, issues]
+on:
+  issues:
+  pull_request:
+    branches:
+      - main
 
 jobs:
-  greeting:
+  greet:
     runs-on: ubuntu-latest
+    name: Greetings
     steps:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: '# Hey there!<br><br>This is your first issue on this repo, feel free to add on!'
-        pr-message: '# Awesome!<br><br>This is your first Pull Request, keep up the good work!'
+        issue-message: '<h2>Hey there! :laugh: </h2>Thanks for raising an issue, keep contributing!'
+        pr-message: '<h2>Awesome! :hooray: <h2>You made PR on this repo, keep up the good work! Don''t forget to link it to an issue!'
