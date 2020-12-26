@@ -7,7 +7,7 @@
 <!-- Eg: Y - yes / N - No -->
 **Does it close the issue?**: 
 
-<!-- Summarize the changes proposed in this PR. Try to keep it short, use bullet points if necessary -->
+<!-- Summarize the changes proposed in this PR. Try to keep it short, use bullet points if possible -->
 **Summary**:
 <!-- Eg: This PR fixes abc on line x and lines y to z -->
 
@@ -15,5 +15,5 @@
 **Other**:
 
 <!-- Use the preview tab to check the appearance of the PR -->
-<!-- Feel free to delete these comments after you read through them (Syntax : HTML) -->
+<!-- Feel free to delete these comments after you read through them (Syntax: HTML) -->
 <!-- And finally, thanks a bunch for contributing! -->
