@@ -1,5 +1,5 @@
-<!-- All PRs must be linked with an issue. If your none of the old issues are relevant, click on the issue tab to create a new one -->
-<!-- If there's work to be done, you can create a draft of your pull request (Click on the arrow next to 'Create pull request' to expand options) -->
+<!-- All PRs must be linked with an issue -->
+<!-- If your none of the old issues are relevant, click on the issue tab to create a new one -->
 
 <!-- Eg: (For the nth issue) Issue #n -->
 **This PR is related to**: 
