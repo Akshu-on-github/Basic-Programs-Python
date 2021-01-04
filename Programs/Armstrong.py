@@ -1,4 +1,5 @@
-# Armstrong number: A three-digit number whose sum of the cubes of its digits is equal to the number itself
+# An Armstrong number is a three-digit number whose sum of the cubes of its digits is equal to the number itself
+
 # Function to check if the given number is an Armstrong number
 def checkArmstrong(num):
    sum = 0
