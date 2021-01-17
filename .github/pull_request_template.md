@@ -1,5 +1,6 @@
 <!-- All PRs must be linked with an issue -->
-<!-- If your none of the old issues are relevant, click on the issue tab to create a new one -->
+<!-- If none of the old issues are relevant, click on the issue tab to create a new one -->
+<!-- If you're adding sample code, please reference both Issue #1 and the issue you raised -->
 
 <!-- Eg: (For the nth issue) Issue #n -->
 **This PR is related to**: 
@@ -9,7 +10,11 @@
 
 <!-- Summarize the changes proposed in this PR. Try to keep it short, use bullet points if possible -->
 **Summary**:
-<!-- Eg: This PR fixes abc on line x and lines y to z -->
+<!-- Eg:
+This PR fixes:
+- abc on line x
+- pqr on lines y to z
+-->
 
 <!-- Add anything other points of note here. Delete if unnecessary -->
 **Other**:
