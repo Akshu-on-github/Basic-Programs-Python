@@ -10,8 +10,9 @@
 
 ### Adding Sample Code
 - Check if there are any open Issues or PRs for the topic or similar topics
-  ![image](https://user-images.githubusercontent.com/61582763/106519739-c508e800-6501-11eb-9133-1de5952cfe40.png)
-  ![image](https://user-images.githubusercontent.com/61582763/106519960-16b17280-6502-11eb-94eb-81fd3fabfd9e.png)
+<img src="https://user-images.githubusercontent.com/82928579/119253135-69a45800-bbcd-11eb-824a-f08b1e549024.PNG" alt="issues & PRs" width=50%>
+<img src="https://user-images.githubusercontent.com/82928579/119253194-bb4ce280-bbcd-11eb-8db2-8ca5abd18c23.PNG" alt="open issues" width=50%>
+
   - If the resemblance is minimal, please reference the previous PR/issue
   - If there's a large overlap, please start a discussion and ping a mod for clarification
 - Raise an issue that briefly explains the Sample Code
