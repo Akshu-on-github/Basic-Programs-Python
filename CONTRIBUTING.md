@@ -11,7 +11,7 @@
 ### Adding Sample Code
 - Check if there are any open Issues or PRs for the topic or similar topics
 <img src="https://user-images.githubusercontent.com/82928579/119253135-69a45800-bbcd-11eb-824a-f08b1e549024.PNG" alt="issues & PRs" width=50%>
-<img src="https://user-images.githubusercontent.com/82928579/119253194-bb4ce280-bbcd-11eb-8db2-8ca5abd18c23.PNG" alt="open issues" width=50%>
+<img src="https://user-images.githubusercontent.com/82928579/119253194-bb4ce280-bbcd-11eb-8db2-8ca5abd18c23.PNG" alt="open issues" width=70%>
 
   - If the resemblance is minimal, please reference the previous PR/issue
   - If there's a large overlap, please start a discussion and ping a mod for clarification
@@ -20,4 +20,4 @@
   - **Plagiarism is intellectual theft and is severely condemned.**
 - While opening the PR with the appropriate changes, reference the relavant issue
   - Please use the `Sample Code` template
-  ![image](https://user-images.githubusercontent.com/61582763/106519444-4c099080-6501-11eb-8ca9-1b93a55ee813.png)
+<img src="https://user-images.githubusercontent.com/82928579/119253831-af165480-bbd0-11eb-86ee-f359da5ea9c2.png" alt="sample code" width=50%>
