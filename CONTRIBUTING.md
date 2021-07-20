@@ -3,9 +3,10 @@
 - Be professional
 - Remember: Not all PRs will be merged
   - Further review/modifications may be required
-  - While we're happy to guide first-timers, spam is strongly discouraged
+  - While we're happy to guide first-timers, the maintainers are volunteers and may take some time to respond
+  - Spam is strongly discouraged
   - Duplicate PRs will not be taken into consideration
-- Ping [Akushu-on-github](https://github.com/Akshu-on-github) for mod/admin related issues
+- Ping [Akshu-on-github](https://github.com/Akshu-on-github) for mod/admin related issues
 - Don't raise PRs to issues opened by others without gaining acknowledgment in the relevant issue
 
 ### Adding Sample Code
