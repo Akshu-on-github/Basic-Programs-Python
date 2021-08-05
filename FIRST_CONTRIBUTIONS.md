@@ -13,7 +13,12 @@ These create an organization structure for the project and are commonly found in
 5. ***Community Members***: Users of the repository
 
 **Documents**
-Documentation structures information in the repository.
+
+Documentation structures information in the repository. Sometimes, there might be sub-teams within a repository who have their own "team" document. Here are some common documents you might see in an a project:
+1. ***LICENSE***
+2. ***README***
+3. ***CONTRIBUTING***
+4. ***CODE_OF_CONDUCT***
 
 ## Step 2: Git Installation
 1. Follow these instructions to install Git onto your machine [here](https://help.github.com/articles/set-up-git/)**
