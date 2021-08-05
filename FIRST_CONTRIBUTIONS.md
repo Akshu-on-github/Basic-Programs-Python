@@ -4,8 +4,7 @@ The goal of this project is to assist first time contributors in making their fi
 
 ## Step 1: Familiarize yourself with the repository
 **Roles** 
----
-Roles: creates an organization structure for the project.
+This creates an organization structure for the project.
 1. ***Author***: the person who created the project
 2. ***Owner***: administrative representative for repository or organization
 3. ***Contributors***: people who contribute something to the project
