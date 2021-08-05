@@ -18,18 +18,23 @@ These create an organizational structure for the project and are commonly found 
 📚 **Documents** 
 
 Documentation structures information in the repository. Sometimes, there might be sub-teams within a repository that have their own "team" document. Here are some common documents you will see in this project and possible others:
-1. ***LICENSE***: a required file that details the project's open-source license
-2. ***README***: go-to instruction manual that explains the project and its goals to new community members
-3. ***CONTRIBUTING***: details the contributing process, guidelines, and types of contributions needed
-4. ***FIRST_CONTRIBUTIONS***: instruction manual to guide first-time contributors through the open-source project
-5. ***CODE_OF_CONDUCT***: establishes project rules to ensure the project is a welcoming environment. Please abide by them.
 
+| Document        | Description |
+| ----------  |  ---------- |
+| **LICENSE**  | a required file that details the project's open-source license | 
+| **README**   | go-to instruction manual that explains the project and its goals to new community members | 
+| **CONTRIBUTING** | details the contributing process, guidelines, and types of contributions needed |
+|**FIRST_CONTRIBUTIONS** | instruction manual to guide first-time contributors through the open-source project |
+|**CODE_OF_CONDUCT** | establishes project rules to ensure the project is a welcoming environment. Please abide by them. |
 
 🛠️ **Tools**
 
 These organize discussions among contributors and community members. Check out some archived issues to understand how this community works.
-1. ***Issues***: allows people to discuss their experience with certain features in the project
-2. ***Pull requests***: where contributor changes are reviewed by project administration
+
+| Tool        | Description |
+| ----------  |  ---------- |
+| **Issues**  | allows people to discuss their experience with certain features in the project | 
+| **Pull Requests**   | where contributor changes are reviewed by project administration | 
 
 ## Step 2: Git Installation 💻
 Git allows you to save your contributions on your machine, update your copy of the repository to ensure you have the latest version, and push your changes to the open-source project.
