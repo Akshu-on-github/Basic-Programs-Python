@@ -52,5 +52,7 @@ Cloning a repository makes a copy of the repository on your local machine.
 3. Click the 📋 clipboard symbol to copy the link
 4. Open your terminal on your machine
 5. Paste the following git command:
-     `git clone "URL you just copied`
+     ```
+     git clone "URL you just copied
+     ```
 
