@@ -9,14 +9,11 @@ These create an organizational structure for the project and are commonly found 
 
 | Role        | Description |
 | ----------  |  ---------- |
-| **Author**  | the person who created the project       | 
-| **Owner**   | administrative representative for repository or organization        | 
-
-1. ***Author***: the person who created the project
-2. ***Owner***: administrative representative for repository or organization
-3. ***Contributors***: people who contribute something to the project
-4. ***Maintainers***: people who are responsible for overseeing the project into its future goals
-5. ***Community Members***: Users of the repository
+| **Author**  | the person who created the project | 
+| **Owner**   | administrative representative for repository or organization | 
+| **Contributors** | people who contribute something to the project |
+|**Maintainers** | people who are responsible for overseeing the project into its future goals |
+|**Community Members** | users of the repository |
 
 📚 **Documents** 
 
