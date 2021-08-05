@@ -12,7 +12,7 @@ These create an organization structure for the project and are commonly found in
 4. ***Maintainers***: people who are responsible for overseeing the project into its future goals
 5. ***Community Members***: Users of the repository
 
-**Documents** 📚
+📚 **Documents** 
 
 Documentation structures information in the repository. Sometimes, there might be sub-teams within a repository who have their own "team" document. Here are some common documents you will see in this project and possible others:
 1. ***LICENSE***: a required file that details the project's open source license
@@ -21,7 +21,8 @@ Documentation structures information in the repository. Sometimes, there might b
 4. ***FIRST_CONTRIBUTIONS***: instruction manual to guide first time contributors through the open source project
 5. ***CODE_OF_CONDUCT***: establishes project rules to ensure the project is a welcoming environment. Please abide by them.
 
-**Tools** 🧰
+
+🛠️ **Tools**
 
 These organize discussion among contributors and community members. Check out some archived issues to understand how this community works.
 1. ***Issues**: allows people to discuss their experience with certain features in the project
