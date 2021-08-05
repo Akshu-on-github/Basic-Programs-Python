@@ -27,7 +27,7 @@ These organize discussion among contributors and community members. Check out so
 1. ***Issues**: allows people to discuss their experience with certain features in the project
 2. ***Pull requests**: 
 
-## Step 2: Git Installation
-1. Follow these instructions to install Git onto your machine [here](https://help.github.com/articles/set-up-git/)**
+## Step 2: Git Installation 💻
+1. Follow these instructions to install Git onto your machine **[here](https://help.github.com/articles/set-up-git/)**
 
 ## Step 2: Fork this Repository
