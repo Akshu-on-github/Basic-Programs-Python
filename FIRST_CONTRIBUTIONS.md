@@ -3,7 +3,7 @@
 Hey there! 👋 Want to contribute to open source? Here's a great guide to assist first time contributors like you in making their first contribution to this project. 
 
 ## Step 1: Familiarize yourself with the repository 🧐
-**Roles** 🔖 
+🔖 **Roles**  
 
 These create an organization structure for the project and are commonly found in open source projects.
 1. ***Author***: the person who created the project
