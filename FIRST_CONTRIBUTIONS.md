@@ -42,7 +42,7 @@ Git allows you to save your contributions on your machine, update your copy of t
 
 ## Step 2: Fork the repository ⚡ 
 Forking makes a copy of the repository, so you can edit files on your local machine without interrupting the workflow of the project. 
-1. Click the fork button at the top of this page.
+1. Click the `Fork` button at the top of this page.
 
 ## Step 3: Clone the repository ⤵️
 Cloning a repository makes a copy of the repository on your local machine. 
