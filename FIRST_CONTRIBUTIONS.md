@@ -9,8 +9,8 @@ These create an organizational structure for the project and are commonly found 
 
 | Role        | Description |
 | ----------  |  ---------- |
-| Header      | Title       | 
-| Paragraph   | Text        | 
+| **Author**  | the person who created the project       | 
+| **Owner**   | administrative representative for repository or organization        | 
 
 1. ***Author***: the person who created the project
 2. ***Owner***: administrative representative for repository or organization
@@ -51,3 +51,4 @@ Cloning a repository makes a copy of the repository on your local machine.
 4. Open your terminal on your machine
 5. Paste the following git command:
      `git clone "URL you just copied`
+
