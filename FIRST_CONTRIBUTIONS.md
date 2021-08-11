@@ -29,7 +29,7 @@ Documentation structures information in the repository. Sometimes, there might b
 
 🛠️ **Tools**
 
-These organize discussions among contributors and community members. Check out some archived issues to understand how this community works.
+These organize discussions among contributors and community members. Check out some archived issues to understand how this community works. After, find an issue that you can contribute to, comment that you are interested in the issue thread, and an repository adminstrator will assign the role to you.
 
 | Tool        | Description |
 | ----------  |  ---------- |
@@ -55,7 +55,7 @@ Cloning a repository makes a copy of the repository on your local machine.
      ```
      git clone "URL you just copied
      ```
-## Step 4: Make a new branch
+## Step 4: Make a new branch 🌱
 Branches in Git are quite similar to that of a tree. They isolate specific code changes you made in a project, which can be helpful if you are adding a new feature to an existing product.
 1. Move to the repository on your machine utilizing the following command:
      ```
@@ -67,3 +67,39 @@ Branches in Git are quite similar to that of a tree. They isolate specific code 
      git checkout -b <insert-your-branch-name-here>
      ```
      * For example: `git checkout -b add-luke-skywalker`
+
+## Step 5: Make your code changes and commit them 🚧
+If you selected an issue to work on (see Tools for more information), this is where you would make any changes you need to fix the issue.
+1. Navigate through the repository on your machine and make necesary changes.
+2. Check what files were modified using `git status`, and make sure they align with what you worked on. For changes that were not added to your branch yet, their file names will be red:
+     ```
+     git status
+     ```
+4. Save your changes onto the the branch you just created using the following command:
+     ```
+     git add <file-name> 
+     ```
+5. Once you add your changes, you can type `git status` again. For changes that you did add, the file name will be green.
+6. Next, you need to commit your changes, so they are ready to be pushed back to the repository you are contributing to. Utilize the following command to do so:
+     ```
+     git commit -m "add a commit message here"
+     ```
+     * commit messages: make a short line describing what the change is (e.g. fixed login styling). In case if something goes wrong in the future, you can go through your commits, see what each chunk of changes were for, and go back to when your project was working.
+
+## Step 6: Push your contributions to GitHub 🚀
+While your changes are stored on your local machine, you need to push them back to the repository, so all community members can see them too.
+1. Push your changes utilizing the following command:
+     ```
+     git push origin <your-branch-name>
+     ```
+## Step 7: Make a pull request 📈
+Finally, you will need to submit your changes to review. Once they are reviewed by the repository leads, your changes will be added to the repository. If you open the repository on GitHub, you will notice a green `Compare & pull request button` button. 
+1. Click the `Compare & pull request button` on GitHub.
+2. Follow the repository's guideline for submitting a pull request, which may include adding information in the `Leave a comment` section of your pull request.
+     * check the [CONTRIBUTING.md](https://github.com/Akshu-on-github/Basic-Programs-Python/blob/master/CONTRIBUTING.md/#opening-a-pr) for more information
+3. Soon, the repository leads will merge 🔀 your changes into the repository. You will receive an email notification when your changes are merged. 
+
+## Step 8: Celebrate! 🥳
+Congratulations! You just made your first contribution to open source on the `Basic-Programs-Python` repository. The steps you just went through are standard for most open source projects (*fork -> clone -> add changes -> pull request -> changes merged)
+
+So, now what? Check out other open source projects on GitHub that interest you and contribute to them. Your open source journey has just begun! ✨ 
