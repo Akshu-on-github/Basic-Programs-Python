@@ -62,6 +62,7 @@ Branches in Git are quite similar to that of a tree. They isolate specific code 
      cd Basic-Programs-Python
      ```
 2. Now that you are in the repository on your computer, you need to create a branch. Try to keep your branch name relevant to the project. Use this command and replace your branch name with `<insert-your-branch-name-here>` in the code block:
+
      ```
      git checkout -b <insert-your-branch-name-here>
      ```
