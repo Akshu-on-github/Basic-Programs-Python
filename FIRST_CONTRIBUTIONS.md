@@ -55,4 +55,14 @@ Cloning a repository makes a copy of the repository on your local machine.
      ```
      git clone "URL you just copied
      ```
-
+## Step 4: Make a new branch
+Branches in Git are quite similar to that of a tree. They isolate specific code changes you made in a project, which can be helpful if you are adding a new feature to an existing product.
+1. Move to the repository on your machine utilizing the following command:
+     ```
+     cd Basic-Programs-Python
+     ```
+2. Now that you are in the repository on your computer, you need to create a branch. Try to keep your branch name relevant to the project. Use this command and replace your branch name with `<insert-your-branch-name-here>` in the code block:
+     ```
+     git checkout -b <insert-your-branch-name-here>
+     ```
+     * For example: `git checkout -b add-luke-skywalker`
