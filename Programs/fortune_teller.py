@@ -3,7 +3,7 @@ import random
 print("Welcome to your fortune teller! Feel free to ask any question. Remember, no inappropriate questions!")
 while(True):
     choice = str(input("Do you wish to continue? (Y\y or N/n): "))
-    if(choice == 'Y' or choice == 'y'):
+    if(choice.lower() == 'y'):
         question = input("Ask a question: ")
         n = random.randint(0,8)
         if(n==0):
@@ -27,7 +27,7 @@ while(True):
         else:
             break
 
-    elif(choice == 'N' or choice == 'n'):
+    elif(choice.lower() == 'n'):
         print("Thank you for playing. Come back soon!\n")
 
     else:
