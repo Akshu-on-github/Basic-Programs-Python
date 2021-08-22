@@ -17,5 +17,6 @@ This repo has a set of basic programs, a refresher of sorts:
 - Random Number generator
 - Rock, Paper, Scissors Game
 - URL Shortener
+- Fortune Teller Game
 
 Before contributing, please read the [**Contribution Guidelines**](./CONTRIBUTING.md)
