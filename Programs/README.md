@@ -18,5 +18,6 @@ This repo has a set of basic programs, a refresher of sorts:
 - Rock, Paper, Scissors Game
 - URL Shortener
 - Fortune Teller Game
+- Instagram profile picture downloader
 
 Before contributing, please read the [**Contribution Guidelines**](./CONTRIBUTING.md)
