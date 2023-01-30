@@ -1,13 +1,13 @@
 def calc(choice, first_num, second_num):
 # Python does not have switch case
 # There are other ways to implement this, dictionary mapping for example, but I started off with this
-    if(choice=='addition' or choice=='add'):
+    if(choice=='addition' or choice=='add' or choice='+'):
         return first_num+second_num
-    elif (choice=='subtraction' or choice=='subtract'):
+    elif (choice=='subtraction' or choice=='subtract' or choice='-'):
         return first_num-second_num
-    elif(choice=='multiplication' or choice=='multiply'):
+    elif(choice=='multiplication' or choice=='multiply' or choice='*'):
         return first_num*second_num
-    elif (choice=='division' or choice=='divide'):
+    elif (choice=='division' or choice=='divide' or choice='/'):
         return first_num/second_num
 
 print("This is the Basic Calculator Program")
